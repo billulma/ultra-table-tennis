@@ -20,3 +20,6 @@ Rules Repository for Ultra Table Tennis
 - When the ball hits the net during a serve, but the serve would otherwise be considered playable, the continuance of play is at the discretion of the receiving player/team
 
 - When a two or more consecutive lets occur in succession a point deduction for the serving team is applied for each. `Note: A players score cannot drop below zero (0).`
+
+### Spiking
+
